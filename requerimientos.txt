@@ -1,0 +1,12 @@
+Fecha de Entraga 26-Agosto 
+Hora Max 12:00pm
+
+min 3 Secciones landing
+nav bar (responsivo)
+formulario validaciones html5 
+modal 
+carrusel 
+parallax 
+redireccion a redes sociales
+
+un video grabando la pantalla 2min a 5 min 
