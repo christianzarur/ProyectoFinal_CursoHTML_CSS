@@ -1,8 +1,13 @@
-
-.navbar-lightr {
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai|Raleway');
+/* .navbar{
     opacity: 0.9;
-}
+    
+} */
 
+*{
+    font-family: 'Raleway', sans-serif;
+
+}
 .parallax {
     background-size: cover;
     background-position: center center;
@@ -17,4 +22,38 @@
 #pie {
     background-image: url("images/BR05_Social_Battle-Pass-Launch-1920x1080-42eba34b1005a430767fc7fb9bab11f4d20fbdca.jpg");
     height: 300px;
+}
+
+section{
+    background-color: rgb(35, 15, 54);
+    color: aliceblue;
+
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 1em;
+}
+.text-center {
+    text-align: center;
+}
+
+.title{
+    color: aquamarine;
+    font-family: 'Baloo Bhai',cursive;
+    font-size: 5em;
+}
+
+.modal{
+    color: black;
+}
+.img-responsive {
+    max-width: 100%;
+    /* or to whatever you want here */
+    max-height: auto;
+    /* or to whatever you want here */
+}
+
+.bajar{
+    margin-top: 90px;
 }
