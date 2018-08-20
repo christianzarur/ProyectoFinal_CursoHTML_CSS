@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Bhai|Raleway');
-/* .navbar{
-    opacity: 0.9;
-    
-} */
-
 *{
     font-family: 'Raleway', sans-serif;
-
 }
 .parallax {
     background-size: cover;
